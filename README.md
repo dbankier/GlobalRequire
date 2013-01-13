@@ -1,6 +1,6 @@
 ## GlobalRequire
 
-See this [blog post]() to understand what is going on over here.
+See this [blog post](http://www.yydigital.com/blog/2013/1/13/Achieving_Require_Parity) to understand what is going on over here.
 
 ## Usage
 
